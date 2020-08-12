@@ -12,7 +12,7 @@ https://targetbos.github.io/registerFormVue/build/index.html
 
 Клонируем проект: 
 ```sh
-git clone https://github.com/Targetbos/TestDev.git
+git clone https://github.com/Targetbos/registerFormVue.git
 ```
 Заходим в папку проекта и устанавливаем 
 ```sh
